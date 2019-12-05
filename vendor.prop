@@ -3,3 +3,6 @@ bluetooth.device.default_name=OnePlus 8
 
 # USB
 vendor.usb.product_string=OnePlus 8
+
+# Verity
+ro.apk_verity.mode=2
