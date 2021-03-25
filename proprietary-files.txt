@@ -139,7 +139,6 @@ vendor/etc/sensors/config/bmi26x_0_crt.json
 vendor/etc/sensors/config/bmi26x_0_crt_cfg.json
 vendor/etc/sensors/config/bmp380_0.json
 vendor/etc/sensors/config/kona_ak991x_0.json
-vendor/etc/sensors/config/kona_bmi26x_0.json
 vendor/etc/sensors/config/kona_bu52053nvx_0.json
 vendor/etc/sensors/config/kona_default_sensors.json
 vendor/etc/sensors/config/kona_dynamic_sensors.json
@@ -151,7 +150,6 @@ vendor/etc/sensors/config/kona_lps22hh_0.json
 vendor/etc/sensors/config/kona_lsm6dsm_0.json
 vendor/etc/sensors/config/kona_lsm6dst_0.json
 vendor/etc/sensors/config/kona_lsm6dst_1.json
-vendor/etc/sensors/config/kona_mmc5603x_0.json
 vendor/etc/sensors/config/kona_power_0.json
 vendor/etc/sensors/config/kona_qrd_ak991x_0.json
 vendor/etc/sensors/config/kona_qrd_lsm6dst_0.json
