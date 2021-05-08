@@ -32,4 +32,4 @@ SOONG_CONFIG_OPLUS_LINEAGE_TOUCH_HAL := INCLUDE_DIR
 SOONG_CONFIG_OPLUS_LINEAGE_TOUCH_HAL_INCLUDE_DIR := $(DEVICE_PATH)/touch/include
 
 # Include the proprietary files BoardConfig.
--include vendor/oneplus/instantnoodle/BoardConfigVendor.mk
+include vendor/oneplus/instantnoodle/BoardConfigVendor.mk
