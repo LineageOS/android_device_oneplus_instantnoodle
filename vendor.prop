@@ -1,2 +1,5 @@
 # Audio
 ro.config.vc_call_vol_steps=6
+
+# USB
+vendor.usb.product_string=OnePlus 8
