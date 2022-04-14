@@ -24,8 +24,12 @@
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
     $(LOCAL_PATH)/overlay-lineage
+
+PRODUCT_PACKAGES += \
+    OPlusFrameworksResTarget \
+    OPlusSettingsProviderResTarget \
+    OPlusSystemUIResTarget
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
@@ -50,6 +54,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/sensors/vzw/kona_T0_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensors/config/kona_T0_bmi26x_0_vzw.json \
     $(LOCAL_PATH)/configs/sensors/vzw/kona_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensors/config/kona_bmi26x_0_vzw.json \
     $(LOCAL_PATH)/configs/sensors/vzw/kona_mmc5603x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensors/config/kona_mmc5603x_0_vzw.json
+
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += \
+    $(LOCAL_PATH)
 
 PRODUCT_SHIPPING_API_LEVEL := 29
 
