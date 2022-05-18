@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from oneplus sm8250-common
+# Include the common OEM chipset BoardConfig.
 -include device/oneplus/sm8250-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/oneplus/instantnoodle
@@ -34,5 +34,5 @@ BOARD_SUPER_PARTITION_SIZE := 15032385536
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/init/fstab.qcom
 TARGET_RECOVERY_UI_MARGIN_HEIGHT := 103
 
-# inherit from the proprietary version
+# Include the proprietary files BoardConfig.
 -include vendor/oneplus/instantnoodle/BoardConfigVendor.mk
