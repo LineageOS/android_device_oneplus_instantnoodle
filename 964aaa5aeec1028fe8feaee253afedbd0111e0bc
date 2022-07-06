@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59d0e9dc_04a1f8bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19665
+      },
+      "writtenOn": "2022-07-06T07:02:35Z",
+      "side": 1,
+      "message": "Currently results in worse audio processing quality for speaker-dmic-endfire. Stock OOS 12 also uses acdb ids 41 and 43 instead of 111 and 117 for dmic-endfire and speaker-dmic-endfire; said acdb ids are already assigned earlier in the xml.",
+      "revId": "964aaa5aeec1028fe8feaee253afedbd0111e0bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
