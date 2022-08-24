@@ -91,6 +91,8 @@ vendor/lib64/libqtikeymaster4.so
 
 # Sensors
 odm/etc/sensor/config/kona_ak991x_0.json
+odm/etc/sensor/config/kona_bmi26x_0.json
+odm/etc/sensor/config/kona_mmc5603x_0.json
 odm/etc/sensor/config/kona_qrd_alsps.json
 odm/etc/sensor/config/kona_qrd_bmi26x_0.json
 odm/etc/sensor/config/kona_qrd_cct.json
