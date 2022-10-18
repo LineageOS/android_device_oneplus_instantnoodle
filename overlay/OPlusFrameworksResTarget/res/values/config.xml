@@ -401,9 +401,9 @@
 
     <!-- The properties of a UDFPS sensor in pixels, in the order listed below: -->
     <integer-array name="config_udfps_sensor_props" translatable="false" >
-        <item>540</item>  <!-- <item>sensorLocationX</item> -->
-        <item>1910</item> <!-- <item>sensorLocationY</item> -->
-        <item>87</item>   <!-- <item>sensorRadius</item> -->
+        <item>546</item>  <!-- <item>sensorLocationX</item> -->
+        <item>1909</item> <!-- <item>sensorLocationY</item> -->
+        <item>118</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
 
 </resources>
