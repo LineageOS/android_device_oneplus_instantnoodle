@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
     OPlusSystemUIResTarget
 
 # Shipping API
+PRODUCT_PACKAGES_SHIPPING_API_LEVEL_29 :=
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Soong namespaces
