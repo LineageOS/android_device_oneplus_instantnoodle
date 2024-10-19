@@ -23,8 +23,6 @@ odm/etc/camera/darksight/darksight_main.bin
 odm/etc/camera/darksight/darksight_ultrawide.bin
 odm/etc/camera/calibrationOutput_uw.bin
 odm/etc/camera/distortion_result.bin
-odm/lib64/camera/components/com.qti.stats.pdlib.so
-odm/lib64/camera/components/libipebpsstriping.so
 odm/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin
 odm/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin
 odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin
