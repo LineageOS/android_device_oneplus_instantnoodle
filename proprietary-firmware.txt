@@ -19,5 +19,5 @@ qupfw.img;AB
 storsec.img;AB
 tz.img;AB
 uefisecapp.img;AB
-xbl_config.img;AB
 xbl.img;AB
+xbl_config.img;AB
