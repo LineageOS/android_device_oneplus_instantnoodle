@@ -24,8 +24,8 @@ PRODUCT_MODEL := IN2015
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="OnePlus8-user 13 RKQ1.211119.001 Q.1870b9f-4227_f18b release-keys" \
-    BuildFingerprint=OnePlus/OnePlus8/OnePlus8:13/RKQ1.211119.001/Q.1870b9f-4227_f18b:user/release-keys \
+    BuildDesc="OnePlus8-user 13 RKQ1.211119.001 Q.2058945_6c3fa-7d8c1b release-keys" \
+    BuildFingerprint=OnePlus/OnePlus8/OnePlus8:13/RKQ1.211119.001/Q.2058945_6c3fa-7d8c1b:user/release-keys \
     DeviceName=OnePlus8 \
     DeviceProduct=OnePlus8 \
     SystemDevice=OnePlus8 \
